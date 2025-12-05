@@ -6,3 +6,4 @@
 - [Day 02](./day02): Julia
 - [Day 03](./day03): Haskell
 - [Day 04](./day04): Rust
+- [Day 05](./day05): Kotlin
