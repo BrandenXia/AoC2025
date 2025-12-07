@@ -8,3 +8,4 @@
 - [Day 04](./day04): Rust
 - [Day 05](./day05): Kotlin
 - [Day 06](./day06): TypeScript
+- [Day 07](./day07): Ruby
