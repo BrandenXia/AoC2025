@@ -9,3 +9,4 @@
 - [Day 05](./day05): Kotlin
 - [Day 06](./day06): TypeScript
 - [Day 07](./day07): Ruby
+- [Day 08](./day08): Python
