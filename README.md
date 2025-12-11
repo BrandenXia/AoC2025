@@ -10,3 +10,5 @@
 - [Day 06](./day06): TypeScript
 - [Day 07](./day07): Ruby
 - [Day 08](./day08): Python
+- [Day 09](./day09): Mathematica
+- [Day 11](./day11): C++
